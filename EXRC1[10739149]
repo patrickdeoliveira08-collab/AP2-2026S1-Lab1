@@ -1,0 +1,11 @@
+// Patrick de Oliveira Araujo RA:10739149 //
+          // Lab 1. Ex 1 //
+#include <stdio.h>
+
+int main() {
+    printf("Mackenzie - FCI\n");
+    printf("Algoritmos e Prog. II\n");
+    printf("Turma 02N12");
+   
+    return 0;
+}
