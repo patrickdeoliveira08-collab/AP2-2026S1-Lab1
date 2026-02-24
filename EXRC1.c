@@ -6,6 +6,7 @@ int main() {
     printf("Mackenzie - FCI\n");
     printf("Ciência da Computação\n");
     printf("Algoritmos e Prog. II Turma 02N12\n");
-   
+    printf("A FCI foi fundada em 1970!\n");
+
     return 0;
 }
